@@ -1,6 +1,0 @@
-namespace KWSort
-{
-    class KwSort{
-        
-    }
-}
